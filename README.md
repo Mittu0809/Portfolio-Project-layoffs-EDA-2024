@@ -90,8 +90,8 @@ To explore the SQL queries and insights from the cleaned dataset:
 
 git clone https://github.com/yourusername/Portfolio-Project-layoffs-EDA-2024.git
 
-2. Import the SQL files into your database management system.
+2.  Import the SQL files into your database management system.
 
-3. Follow the documented SQL queries to analyze the layoffs data, trends, and insights.
+3.  Follow the documented SQL queries to analyze the layoffs data, trends, and insights.
 
 This project continues the work from the Layoffs Data Cleaning (2024) repository. Make sure to check the data cleaning steps if needed.
