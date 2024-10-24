@@ -4,6 +4,7 @@ Exploratory Data Analysis (EDA) of a cleaned dataset on global layoffs, focusing
 This repository contains the exploratory data analysis (EDA) for a cleaned dataset related to layoffs across various companies. This project follows the data cleaning process and uses SQL queries to extract meaningful insights from the dataset, focusing on trends related to company layoffs, industries, countries, time periods, and company stages.
 
 Layoffs EDA (2024) Description:
+
 The dataset for this analysis contains information about layoffs across industries such as technology, retail, healthcare, and more. Key data points include company names, total laid off, percentage laid off, dates, stages of companies, industries, and countries.
 
 The primary goal of this project is to derive meaningful insights from the cleaned dataset to understand layoffs trends across various dimensions like industries, countries, company stages, and over time.
